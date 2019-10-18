@@ -9,6 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Game/Spalsh.unity
     guid: 03f01273f9c4f5445ba5e3655e659af0
   - enabled: 1
+    path: Assets/Scenes/Game/Level0.unity
+    guid: 73dd17d2af43d5a47ad02bc1c456508c
+  - enabled: 1
     path: Assets/Scenes/Game/Level1.unity
     guid: 09d7b9cb224a01b4e88a0a179375cb09
+  - enabled: 1
+    path: Assets/Scenes/Game/Level2.unity
+    guid: e069ae822f22fdc40853ab37d2a63f6b
   m_configObjects: {}
